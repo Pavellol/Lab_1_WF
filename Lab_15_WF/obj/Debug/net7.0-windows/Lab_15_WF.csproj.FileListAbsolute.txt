@@ -1,0 +1,17 @@
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\bin\Debug\net7.0-windows\Lab_15_WF.exe
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\bin\Debug\net7.0-windows\Lab_15_WF.deps.json
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\bin\Debug\net7.0-windows\Lab_15_WF.runtimeconfig.json
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\bin\Debug\net7.0-windows\Lab_15_WF.dll
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\bin\Debug\net7.0-windows\Lab_15_WF.pdb
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.Form1.resources
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.csproj.GenerateResource.cache
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.AssemblyInfoInputs.cache
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.AssemblyInfo.cs
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.csproj.CoreCompileInputs.cache
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.sourcelink.json
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.dll
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\refint\Lab_15_WF.dll
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.pdb
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\Lab_15_WF.genruntimeconfig.cache
+D:\Univer\ЛГУ\Web-программирование\Lab_1_WF\Lab_15_WF\obj\Debug\net7.0-windows\ref\Lab_15_WF.dll
